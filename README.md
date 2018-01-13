@@ -1,1 +1,1 @@
-# Design for My Dota
+# Design for My Dota website
